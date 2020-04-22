@@ -34,14 +34,14 @@ function DownloadingFile( fileName ) {
 	downloadedFiles++;
 	refreshProgress();
 
-	setStatus("Dosyalar yukleniyor...");
+	setStatus("Dosyalar yükleniyor...");
 }
 
 function SetStatusChanged( status ) {
 	if (status.indexOf("Getting Addon #") != -1) {
 		downloadedFiles++;
 		refreshProgress();
-	}else if (status == "Oyun verisi aliniyor...") {
+	}else if (status == "Oyun verisi alınıyor...") {
 		setProgress(100);
 	}
 
