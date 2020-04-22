@@ -100,9 +100,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Sunucudaki eklentiler yukleniyor",
-"Eklentiler yuklenirken bekleyiniz",
-"Bol eglenceli vakit gecirmen dilegiyle"
+"Sunucudaki eklentiler yükleniyor",
+"Eklentiler yüklenirken bekleyiniz",
+"Bol eğlenceli vakit geçirmen dileğiyle"
 ];
 
 /*Random message order?*/
