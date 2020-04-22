@@ -85,7 +85,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "2nR7isiEkm0", name: "BÖ - Unutursun"}
+	{youtube: "Mc2-YM9Bhu4", name: "Serhat Durmus - Hislerim"}
 ];
 
 /*Random music order?*/
